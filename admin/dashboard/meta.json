@@ -1,0 +1,11 @@
+{
+"label":"แผงควบคุม",
+"menu":"ผู้ดูแลระบบ",
+"order":"1",
+"icon":"fa-desktop",
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}

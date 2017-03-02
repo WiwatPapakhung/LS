@@ -1,0 +1,11 @@
+{
+"label":"ตั้งค่าการลา",
+"menu":"ผู้ดูแลระบบ",
+"order":"8",
+"icon":"fa-sign-out",
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}

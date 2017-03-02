@@ -1,0 +1,11 @@
+{
+"label":"แก้ไขรายละเอียดของงาน",
+"menu":"ผู้ดูแลระบบ",
+"order":"3",
+"icon":"fa-columns",
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}

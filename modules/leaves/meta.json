@@ -1,0 +1,11 @@
+{
+"label":"จัดการการลา",
+"menu":"การลา",
+"order":"1",
+"icon":"fa-share-alt",
+"user_levels":["Admin","Manager","Employee"],
+
+"permissions":
+	{
+	}
+}

@@ -1,0 +1,11 @@
+{
+"label":"ผู้ใต้บังคับบัญชา",
+"menu":"ผู้ใต้บังคับบัญชา",
+"order":"1",
+"icon":"fa-users",
+"user_levels":["Admin","Manager"],
+
+"permissions":
+	{
+	}
+}

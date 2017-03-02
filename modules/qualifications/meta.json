@@ -1,0 +1,11 @@
+{
+"label":"Qualifications",
+"menu":"ข้อมูลบุคคล",
+"order":"3",
+"icon":"fa-graduation-cap",
+"user_levels":["Admin","Manager","Employee"],
+
+"permissions":
+	{
+	}
+}

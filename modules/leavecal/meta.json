@@ -1,0 +1,11 @@
+{
+"label":"ปฏิทินการลา",
+"menu":"การลา",
+"order":"2",
+"icon":"fa-calendar",
+"user_levels":["Admin","Manager","Employee"],
+
+"permissions":
+	{
+	}
+}

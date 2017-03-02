@@ -1,0 +1,11 @@
+{
+"label":"แผงควบคุม",
+"menu":"ข้อมูลบุคคล",
+"order":"1",
+"icon":"fa-desktop",
+"user_levels":["Admin","Manager","Employee"],
+
+"permissions":
+	{
+	}
+}
